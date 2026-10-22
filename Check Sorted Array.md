@@ -76,5 +76,9 @@ class Solution {
     }
 };
 ```
+\*let array size=5
+i=1; i<5
+if (arr[0]>arr[1])--false
+checks till i<5*\
 
 *Generated on: 10/20/2026, 3:53:21 PM*
